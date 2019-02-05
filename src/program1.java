@@ -1,2 +1,5 @@
 i am first program of java
 i am object based programming
+i don't have mulitple inheritance 
+i don't have go to 
+i have another.
